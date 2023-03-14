@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--拍摄界面-->
+<config>
+    <entry key='1615_fov' note='1615fov'>1452,253</entry>
+    <entry key='0808_fov' note='0808fov'>1783,249</entry>	
+	<entry key='1609_fov' note='1609fov选择按钮'>1608,250</entry>	
+    <entry key='scan_mode' note='高清'>1622,484</entry>
+    <entry key='super_mode' note='快扫或超清'>1622,484</entry>	
+    <entry key='Position_preview' note='定位预览'>1467,820</entry>
+    <entry key='start_preview' note='开始定位预览按钮'>853,953</entry>	
+	<entry key='end_preview' note='完成定位预览按钮'>1058,953</entry>	
+	<entry key='restart_preview' note='重新开始定位预览按钮'>834,955</entry>	
+	<entry key='start_shot' note='准备拍摄按钮'>1473,947</entry>	
+</config>

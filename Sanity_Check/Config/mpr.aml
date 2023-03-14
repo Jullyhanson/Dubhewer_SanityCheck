@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--MPR界面-->
+<config>
+    <entry key='in_HDM' note='横断面区域内'>586,410</entry>
+    <entry key='region' note='区域按钮'>1687,652</entry>
+	<!--vivian-->	
+	<entry key='bone_region1' note='mode1绘制骨头区域1'>322,354</entry>
+	<entry key='bone_region2' note='mode1绘制骨头区域2'>337,357</entry>
+	<entry key='bone_region3' note='mode1绘制骨头区域3'>323,392</entry>	
+	<entry key='bone_region4' note='mode1绘制骨头区域4'>310,390</entry>
+
+	<entry key='bone3_region1' note='mode3绘制骨头区域1'>334,284</entry>
+	<entry key='bone3_region2' note='mode3绘制骨头区域2'>348,297</entry>
+	<entry key='bone3_region3' note='mode3绘制骨头区域3'>336,335</entry>	
+	<entry key='bone3_region4' note='mode3绘制骨头区域4'>312,327</entry>
+	
+    <entry key='close_gmd' note='骨密度图关闭按钮'>1264,256</entry>
+    <entry key='no_program' note='保存项目点击否'>1074,556</entry>	
+	<entry key='program_open' note='打开项目按钮'>177,61</entry>
+	<entry key='program_10000' note='打开项目10000按钮'>768,423</entry>
+	<entry key='program_load' note='加载项目按钮'>1143,611</entry>
+	<entry key='close_dubheviewer' note='关闭按钮'>1900,20</entry>	
+	<entry key='implant' note='种植按钮'>1744,722</entry>			
+	<entry key='implant_AI' note='种植按钮'>1680,849</entry>
+	<entry key='AI_lian_implant' note='连续种植按钮'>1746,856</entry>	
+	<entry key='AI_yashenjing' note='AI牙神经按钮'>1806,773</entry>
+	<entry key='AI_yes' note='AI牙神经按钮,点击确定'>969,557</entry>
+	<entry key='AI_ok' note='AI牙神经按钮,点击确定'>957,686</entry>
+	<!--yjj--工具栏模块-->
+	<entry key='dicom_ok' note='如果下载的dicom文件被删除，则点击确定'>1435,558</entry>
+	<entry key='mpr' note='mpr按钮'>41,137</entry>
+	<entry key='heng_hua' note='横断面滑动条位置'>834,350</entry>
+	<entry key='chuangkuan' note='窗宽拖动'>1799,141,1786,141</entry>
+	<entry key='chuangwei' note='窗位拖动'>1799,182,1791,182</entry>
+	<entry key='button_suofang' note='缩放'>1741,310</entry>
+	<entry key='heng_suo' note='横断面缩放'>600,210,600,200</entry>
+	<entry key='button_yidong' note='移动按钮'>1811,314</entry>
+	<entry key='yidong' note='移动操作'>600,210,600,200</entry>
+	<entry key='button_fanse' note='反色按钮'>1870,221</entry>
+	<entry key='color_model' note='颜色模板'>1685,445</entry>
+	<entry key='color_bone' note='骨骼'>740,575</entry>
+	<entry key='color_tooth' note='牙齿'>724,410</entry>
+	<entry key='color_close' note='关闭模板'>1117,294</entry>
+	<entry key='button_weitiao' note='微调'>1722,445</entry>
+	<entry key='weitiao1' note='微调第1个点'>802,400,813,400</entry>
+	<entry key='weitiao2' note='调整微调第2个点'>794,700,820,700</entry>
+	<entry key='weitiao_close' note='关闭微调界面'>1265,289</entry>
+	<entry key='button_text' note='注释按钮'>1646,615</entry>
+	<entry key='text_location' note='注释添加位置'>564,362</entry>
+	<entry key='text_content' note='注释内容位置'>955,526</entry>
+	<entry key='text_ok' note='完成注释'>948,641</entry>
+	<entry key='button_line' note='线框按钮'>1800,451</entry>
+	<entry key='button_ROI' note='ROI按钮'>1742,443</entry>
+	<entry key='ROI_out' note='删除外部按钮'>1340,341</entry>
+	<entry key='ROI1' note='ROI1位置'>495,423</entry>
+	<entry key='ROI2' note='ROI2位置'>620,480</entry>
+	<entry key='ROI3' note='ROI3位置'>659,577</entry>
+	<entry key='ROI4' note='ROI4位置'>741,597</entry>
+	<entry key='ROI5' note='ROI5位置'>839,599</entry>
+	<entry key='ROI6' note='ROI6位置'>910,575</entry>
+	<entry key='ROI7' note='ROI7位置'>973,485</entry>
+	<entry key='ROI8' note='ROI8位置'>1069,432</entry>
+	<entry key='ROI9' note='ROI9位置'>1008,696</entry>
+	<entry key='ROI10' note='ROI10位置'>815,792</entry>
+	<entry key='ROI11' note='ROI11位置'>634,744</entry>
+	<entry key='ROI12' note='ROI12位置'>496,421</entry>
+	<entry key='ROI_ok' note='完成ROI'>891,872</entry>
+	<entry key='button_jiantou' note='箭头按钮'>1862,650</entry>
+	<entry key='jiantou_1' note='箭头开始'>340,667</entry>
+	<entry key='jiantou_2' note='箭头结束'>511,746</entry>
+	<!--yjj-->
+	<entry key='button_space' note='测距'>1684,573</entry>
+	<entry key='space_1' note='测距起点'>248,180</entry>
+	<entry key='space_2' note='测距终点'>536,232</entry>
+	<entry key='button_zhe' note='折线测距'>1746,571</entry>
+	<entry key='zhe_1' note='折线测距1'>1030,721</entry>
+	<entry key='zhe_2' note='折线测距2'>1147,639</entry>
+	<entry key='zhe_3' note='折线测距3'>1152,642</entry>
+	<entry key='button_qu' note='曲线测距'>1800,577</entry>
+	<entry key='qu_1' note='曲线测距1'>1011,885</entry>
+	<entry key='qu_2' note='曲线测距2'>1184,727</entry>
+	<entry key='qu_3' note='曲线测距3'>1387,748</entry>
+	<entry key='qu_4' note='曲线测距4'>1387,761</entry>
+	<entry key='button_angle' note='角度'>1863,574</entry>
+	<entry key='angle_1' note='角度1'>318,672</entry>
+	<entry key='angle_2' note='角度2'>350,872</entry>
+	<entry key='angle_3' note='角度3'>421,689</entry>
+	<entry key='button_zhi' note=''>1741,655</entry>
+	<entry key='zhi_1' note=''>1413,655</entry>
+	<entry key='zhi_2' note=''>1437,698</entry>
+	<entry key='zhi_close' note='关闭直方图'>1458,305</entry>
+	<entry key='button_program' note=''>271,58</entry>
+	<entry key='program_yes' note=''>1002,657</entry>
+	<!--yjj--0.7.9.9-->
+	<entry key='local_program_button' note='加载本地项目'>200,100</entry>
+	<entry key='remote_program_button' note='加载共享项目'>200,130</entry>
+	<entry key='' note=''></entry>
+	
+</config>

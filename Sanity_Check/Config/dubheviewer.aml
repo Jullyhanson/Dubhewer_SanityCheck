@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--看图-->
+<config>
+    <entry key='navigation_bar' note='导航栏'>764,16</entry>
+	<entry key='close_dubheviewer' note='关闭按钮'>1903,22</entry>	
+	<entry key='project_no' note='如果关闭时自动保存项目，点击否'>1074,556</entry>	
+</config>

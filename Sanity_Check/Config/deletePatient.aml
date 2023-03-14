@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--患者列表界面-->
+<config>
+    <entry key='PaitientConfig' note='患者列表的设置按钮'>1834,46</entry>
+    <entry key='newPatient' note='新建患者'>220,115</entry>
+	<entry key='PatientName' note='患者姓名输入框'>782,288</entry>
+	<entry key='DoctorName' note='检查医生输入框'>793,438</entry>	
+	<entry key='Enter' note='确定按钮'>857,783</entry>	
+	<entry key='shot' note='不带患者为根的拍摄列表的拍摄按钮'>1479,232</entry>	
+	<entry key='shot_patient' note='患者为根的拍摄按钮'>1648,917</entry>	
+	<entry key='look_patient' note='患者为根的查看按钮'>1812,401</entry>		
+	<entry key='look' note='序列为根的查看按钮'>1476,228</entry>		
+	<entry key='seris_more' note='序列为根的更多按钮'>1834,321</entry>
+	<entry key='more_rebuildAgain' note='再次重建按钮'>1812,569</entry>
+</config>

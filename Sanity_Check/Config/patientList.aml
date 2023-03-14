@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--患者列表界面-->
+<config>
+    <entry key='PatientConfig' note='患者列表的设置按钮'>1834,46</entry>
+    <entry key='newPatient' note='新建患者'>220,115</entry>
+	<entry key='PatientName' note='患者姓名输入框'>782,288</entry>
+	<entry key='DoctorName' note='检查医生输入框'>793,438</entry>	
+	<entry key='Enter' note='确定按钮'>857,783</entry>
+	<entry key='Save_button' note='保存按钮'>977,777</entry>
+	<entry key='shot' note='不带患者为根的拍摄列表的拍摄按钮'>1479,232</entry>	
+	<entry key='shot_patient' note='患者为根的拍摄按钮'>1648,917</entry>	
+	<entry key='look_patient' note='患者为根的查看按钮'>1812,401</entry>		
+	<entry key='look' note='序列为根的查看按钮'>1476,228</entry>		
+	<entry key='seris_more' note='序列为根的更多按钮'>1834,321</entry>
+	<entry key='more_rebuildAgain' note='再次重建按钮'>1812,569</entry>
+	<entry key='fistPatient' note='第一行患者'>728,228</entry>
+	<entry key='fistaddress' note='第一个序列的设置按钮位置'>1812,408</entry>
+	<entry key='Worklist_button' note='worklist按钮'>97,104</entry>
+	<entry key='Worklist_query' note='worklist-查询按钮'>356,336</entry>
+<!--test_deleteData患者为根的删除操作-->
+	<entry key='first_operation' note='患者为根的第一行操作按钮'>1359,218</entry>
+	<entry key='Paitent_delete' note='患者为根下删除按钮，first_operation按下后才有'>1405,329</entry>
+	<entry key='delete_Enter' note='患者为根下删除后确定按钮'>862,698</entry>
+<!--test_deleteData拍摄为根的删除操作-->	
+	<entry key='delete_study' note='拍摄为根的删除按钮'>1369,226</entry>
+</config>

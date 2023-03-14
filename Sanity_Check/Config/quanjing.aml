@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--全景模块-->
+<config>
+	<entry key='button_quanjing' note='全景按钮'>37,278</entry>
+	<entry key='' note=''></entry>
+	<entry key='' note=''></entry>
+	<entry key='' note=''></entry>
+	<entry key='' note=''></entry>
+	<entry key='' note=''></entry>
+	<entry key='' note=''></entry>
+</config>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--算法配置界面-->
+<config>
+    <entry key='DeviceManagement' note='设备管理'>319,387</entry>
+    <entry key='ReconConfig' note='重建设置'>766,186</entry>
+    <entry key='default' note='恢复默认'>1064,844</entry>
+
+</config>

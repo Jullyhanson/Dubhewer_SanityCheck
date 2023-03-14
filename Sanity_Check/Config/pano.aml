@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--pano界面-->
+<config>
+	<!--常规全景界面-->
+    <entry key='pano' note='全景模块按钮'>41,274</entry>
+    <entry key='region' note='区域按钮'>1687,652</entry>
+    <entry key='close_gmd' note='骨密度图关闭按钮'>1264,256</entry>	
+    <entry key='AI_yagong' note='AI牙弓按钮'>1745,648</entry>	
+    <entry key='AI_nerve' note='AI牙神经'>1681,716</entry>	
+    <entry key='info_clear' note='清空AI牙弓提示'>970,555</entry>	
+    <entry key='list_button' note='列表'>1860,312</entry>	
+    <entry key='list_nerve' note='列表中的牙神经'>1197,140</entry>	
+    <entry key='list_clear' note='列表中的清空按钮'>1554,622</entry>	
+    <entry key='cut_button' note='截图按钮'>1698,57</entry>	
+    <entry key='cut_pano' note='截图全景'>1143,326</entry>	
+    <entry key='save_project' note='保存项目'>256, 59</entry>	
+    <entry key='project_load' note='加载项目'>186,54</entry>	
+    <entry key='project_local' note='本地项目'>205,91</entry>	
+	<!--3D全景界面-->
+	<entry key='3Dpano_table' note='切换到3D全景table页'>848,58</entry>
+	<entry key='3DROI_0' note='3DROI框默认位置'>1103,439</entry>
+	<entry key='Reset_button' note='重置按钮'>1600,45</entry>
+	<entry key='ImplantOn_button' note='连种按钮'>1803,708</entry>
+	<entry key='Impalnt1_place' note='第1个种植体的位置'>223,332</entry>
+	<entry key='Impalnt2_place' note='第2个种植体的位置'>329,196</entry>
+	<entry key='Impalnt3_place' note='第3个种植体的位置'>449,323</entry>
+	<!--种植验证界面-->
+	<entry key='Implant_table' note='种植验证table页'>920,50</entry>
+	<entry key='Imp1' note='点击种植验证全景中的第1个种植体'>828,412</entry>
+	<entry key='Imp2' note='点击种植验证全景中的第2个种植体'>1090,417</entry>
+	<entry key='Imp3' note='点击种植验证全景中的第3个种植体'>1375,412</entry>
+	<entry key='' note=''></entry>
+	<entry key='' note=''></entry>
+	<entry key='' note=''></entry>
+</config>

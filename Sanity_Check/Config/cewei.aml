@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--正侧位模块-->
+<config>
+	<entry key='button_cewei' note='侧位按钮'>41,519</entry>
+	<entry key='button_AIairway' note='AI气道按钮'>1687,645</entry>
+	<entry key='button_AImeasure' note='AI测量'>1678,775</entry>
+	<entry key='Table_AirwayPage' note='气道分析界面'>923,57</entry>
+	<entry key='Airway_AIairway' note='气道分析界面的AI气道'>1685,642</entry>
+	<entry key='button_ok' note='确定按钮'>967,560</entry>
+	<entry key='Airway_Manuairway' note='气道分析界面的手动气道'>1746,640</entry>
+	<entry key='Airway_segmentation' note='气道分析界面的气道分段'>1805,640</entry>
+	<entry key='Airway_hide' note='气道分析界面的隐藏气道'>1865,640</entry>
+</config>

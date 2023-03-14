@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--sanitycheck模块-->
+<config>
+	<!--sanitycheck---MPR模块-种植体验证-->
+    <entry key='301pos' note='横断面301层滚轮位置'>844,356</entry>
+	<entry key='DragTo415' note='拖动横断面滚轮至415层'>844,356,844,422</entry>
+	<entry key='DragTo7' note='将十字线移动至下牙区左7区域'>461,326,534,263</entry>
+	<entry key='RollHengLine' note='旋转横断面中十字线'>532,125,478,138</entry>
+	<entry key='RollGuanLine' note='旋转冠状面中十字线'>555,635,528,628</entry>
+	<entry key='offLine' note='隐藏十字线'>1274,821</entry>
+	<entry key='MaxWindow' note='放大矢状面'>1274,821</entry>
+	<entry key='Measure_button' note='测量按钮'>1683,574</entry>
+	<entry key='Line1' note='测量起点'>500,772</entry>
+	<entry key='Line2' note='测量终点'>566,755</entry>
+	<entry key='DragText' note='拖动测量标注'>589,756,649,674</entry>
+	<entry key='Line3' note='测量起点'>520,755</entry>
+	<entry key='Line4' note='测量终点'>558,840</entry>
+	<entry key='SelectAndPut' note='挑与置'>1864,772</entry>
+	<entry key='ImplantPut' note='置入种植体'>526,786</entry>
+	<entry key='ImplantRightMenu' note='呼出种植体右键菜单'>524,789</entry>
+	<entry key='JitaiOn' note='附基台'>577,493</entry>
+	<entry key='JitaiAngel' note='基台角度'>876,594</entry>
+	<entry key='JitaiSure' note='基台界面确定按钮'>1121,663</entry>
+	<entry key='ImplantRoll' note='旋转种植体'>527,852,558,841</entry>
+	<!--sanitycheck---全景模块-牙神经验证-->
+	<entry key='Reset' note=''>1605,57</entry>
+	<entry key='shenjin_button' note=''>1863,644</entry>
+	<entry key='depth0Sure' note=''>1138,555</entry>
+	<entry key='shenjing1' note=''>1453,299</entry>
+	<entry key='shenjing2' note=''>1416,355</entry>
+	<entry key='shenjing3' note=''>1375,403</entry>
+	<entry key='shenjing4' note=''>1312,455</entry>
+	<entry key='shenjing5' note=''>1243,476</entry>
+	<entry key='shenjing6' note=''>1190,485</entry>
+	<entry key='shenjing7' note=''>1171,464</entry>
+	<entry key='ImpWithShenjing' note=''>1293,405,1307,462</entry>
+</config>

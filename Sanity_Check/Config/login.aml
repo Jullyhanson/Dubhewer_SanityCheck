@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--登录界面-->
+<config>
+    <entry key='login_button' note='dubhewer图标位置'>39,954</entry>
+    <entry key='user' note='input用户名位置'>1129,564</entry>
+    <entry key='admin_name' note='用户名输入'>admin</entry>
+    <entry key='entrance' note='登录按钮'>1162,705</entry>
+</config>

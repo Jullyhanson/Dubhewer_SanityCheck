@@ -1,0 +1,12 @@
+.idea/
+__pycache__
+*.pyc
+*.png
+*.txt
+*.bmp
+*.html
+!/image_PD/right/*
+!/image_PR/right/*
+!/image_PE/right/*
+
+

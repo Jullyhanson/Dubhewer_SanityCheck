@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--患者列表界面-->
+<config>
+    <entry key='close_devicemanage' note='关闭设置'>1648,183</entry>
+ <!--删除患者相关信息test_deleteData-->   
+    <entry key='image_manage' note='图像管理'>325,304</entry>
+	<entry key='recycle' note='回收站'>766,169</entry>
+	<entry key='empty' note='清空回收站'>1202,239</entry>
+	<entry key='empty_enter' note='清空回收站后的确定按钮'>869,690</entry>
+</config>

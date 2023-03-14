@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--再次重建配置界面-->
+<config>
+    <entry key='easy' note='简单模式'>999,224</entry>
+    <entry key='pro' note='高级模式'>1115,225</entry>
+    <entry key='easy_mar' note='金属伪影校正开关'>1130,366</entry>
+	<entry key='easy_tiao' note='条形伪影校正开关'>1130,421</entry>
+	<entry key='easy_jun' note='均匀度校正'>1130,479</entry>
+	<entry key='easy_start' note='简单模式启动重建'>953,818</entry>
+	<entry key='easy_cancle' note='简单模式取消重建'>1088,816</entry>
+	<entry key='pro_mar' note='高级模式金属伪影校正'>1130,367</entry>
+	<entry key='pro_hard' note='高级模式硬化伪影校正'>1130,427</entry>
+	<entry key='pro_soft' note='高级模式软组织降噪'>1130,484</entry>
+	<entry key='pro_bone' note='高级模式骨组织降噪'>1130,545</entry>
+	<entry key='pro_tiao' note='高级模式条状伪影校正'>1130,595</entry>
+	<entry key='pro_jun' note='高级模式均匀度校正'>1130,654</entry>
+	<entry key='pro_start' note='高级模式启动重建'>969,825</entry>
+	<entry key='pro_cancle' note='高级模式取消重建'>1099,817</entry>
+	<entry key='pro2easy_0808' note='0808切换到简单模式'>1479,224</entry>
+	<entry key='pro_0808_center' note='0808感兴趣区域中心'>1406,537</entry>
+	<entry key='pro_0808_are' note='0808感兴趣区域'>1206,344,1615,749</entry>
+	<entry key='pro_0808_top' note='0808感兴趣区域上限'>1206,344</entry>
+	<entry key='pro_0808_down' note='0808感兴趣区域下限'>1615,749</entry>
+	<entry key='pro_0808_start' note='0808启动重建'>1433,816</entry>
+	<entry key='pro_0808_cancle' note='0808取消重建'>1579,816</entry>
+	<entry key='rebuild_OK' note='确定按钮'>961,695</entry>
+</config>

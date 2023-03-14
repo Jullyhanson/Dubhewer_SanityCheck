@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--定位预览界面-->
+<config>
+    <entry key='pre_button' note='定位预览按钮'>1481,833</entry>
+    <entry key='pre_start' note='开始定位'>846,957</entry>
+    <entry key='pre_again' note='重新预览'>846,957</entry>
+    <entry key='pre_finish' note='完成预览'>1069,955</entry>
+    <entry key='0808_ortharea' note='0808正位范围'>620,660,710,696</entry>
+    <entry key='0808_ceptharea' note='0808侧位范围'>1266,670,1330,672</entry>
+</config>

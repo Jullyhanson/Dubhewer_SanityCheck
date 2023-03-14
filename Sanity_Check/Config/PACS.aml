@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--PACS相关界面-->
+<config>
+<!--上传-->
+<!--患者为根的操作-->
+	<entry key='first_patient' note='患者为根的第一个患者操作按钮'>1359,218</entry>
+	<entry key='first_series' note='患者为根的第一个患者的第一个序列操作按钮'>1661,375</entry>
+	<entry key='series_more' note='第一个序列的更多按钮'>1833,324</entry>
+	<entry key='upload_button' note='上传按钮'>1834,324</entry>
+	<entry key='upload_zloading' note='上传进度条中间位置'>893,617</entry>
+	<entry key='upload_loading' note='上传进度条末端'>1194,617</entry>
+	<entry key='backload_button' note='后台运行'>1097,678</entry>
+<!--下载-->
+	<entry key='right_button' note='右键位置'>1082,227</entry>
+	<entry key='download_button' note='下载按钮'>1216,249</entry>
+	<entry key='dateline_year' note='截止日期位置年份'>1265,275</entry>
+	<entry key='query_button' note='查询'>364,339</entry>
+	<entry key='first_download' note='选择第一个患者'>392,408</entry>
+	<entry key='download_input' note='导入按钮'>478,339</entry>
+	<entry key='' note=''></entry>
+</config>

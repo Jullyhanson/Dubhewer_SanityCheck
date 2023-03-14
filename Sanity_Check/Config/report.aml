@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--医学报告模块-->
+<config>
+    <entry key='heng_cut' note='横断面截图'>846,123</entry>
+	<entry key='guan_cut' note='冠状面截图'>842,590</entry>
+	<entry key='shi_cut' note='矢状面截图'>1610,590</entry>
+	<entry key='mpr3D_cut' note='mpr3D截图'>1610,123</entry>
+	<entry key='quanHeng_cut' note='全景横断面截图'>583,124</entry>
+	<entry key='quan_cut' note='全景面截图'>1610,123</entry>
+	<entry key='qie_cut' note='切片截图'>1612,616</entry>
+	<entry key='quan3D_cut' note='全景3D截图'>587,597</entry>
+	<entry key='AI_lian_implant' note='连中按钮'>1865,720</entry>
+	<entry key='implant_location' note='种植位置'>1226,392</entry>
+	<entry key='dingwei_implant' note='连中按钮'>633,397,1203,373</entry>
+	<entry key='button_report' note='医学报告按钮'>1806,56</entry>
+	<entry key='model_33'mote='选择3×3模板'>63,333</entry>
+	<entry key='model_up' note='选择置顶模板'>110,170</entry>
+	<entry key='pic_1' note='截图1拖拽位置'>1766,239,690,276</entry>
+	<entry key='pic_2' note='截图2拖拽位置'>1766,239,946,286</entry>
+	<entry key='pic_3' note='截图3拖拽位置'>1766,239,1210,277</entry>
+	<entry key='pic_4' note='截图4拖拽位置'>1766,239,713,564</entry>
+	<entry key='pic_5' note='截图5拖拽位置'>1766,239,959,576</entry>
+	<entry key='pic_6' note='截图6拖拽位置'>1766,239,1223,580</entry>
+	<entry key='pic_7' note='截图7拖拽位置'>1766,239,687,885</entry>
+	<entry key='pic_8' note='截图8拖拽位置'>1766,239,974,875</entry>
+	<entry key='pic_9' note='截图9拖拽位置'>1766,239,1214,856</entry>
+	<entry key='report_out' note='导出报告为图片'>1850,56</entry>
+	<entry key='report_path' note='输入到处报告图片的路径'>648,50</entry>
+	<entry key='path_go' note='前往保存路径'>704,52</entry>
+	<entry key='report_saveOK' note='导出报告为图片'>785,504</entry>
+</config>
